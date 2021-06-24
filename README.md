@@ -1,2 +1,3 @@
-if the custom hearts are not there press F3 and T <br>
- ONLY FOR VERSION 3 OR HIGHER
+# IMPORTANT
+
+### the light pink armour bar is empty and the purple armour bar means full
